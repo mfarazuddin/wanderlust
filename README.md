@@ -8,7 +8,7 @@ WanderLust is a simple MERN travel blog website ✈ This project is aimed to hel
 ## [Discord Channel](https://discord.gg/FEKasAdCrG)
 
 ## 🎯 Goal of this project
-
+Two aims
 At its core, this project embodies two important aims:
 
 1. **Start Your Open Source Journey**: It's aimed to kickstart your open-source journey. Here, you'll learn the basics of Git and get a solid grip on the MERN stack and I strongly believe that learning and building should go hand in hand.
